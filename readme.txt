@@ -33,7 +33,7 @@ Enter the starting node for coloring
 0                                                                                                                                               
 OUTPUT IS                                                                                                                                       
                                                                                                                                                 
-EDGE        COLOR                                                                                                                               
+NODE        COLOR                                                                                                                               
 0     ==>     1                                                                                                                                 
 5     ==>     2                                                                                                                                 
 4     ==>     1                                                                                                                                 
